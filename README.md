@@ -71,4 +71,4 @@ I am a strong communicator in cross-functional teams, as demonstrated in my elec
 # Interests
 
 - I have a lifelong interest in gaming and more recently esports. I have always been a big user of the Internet and spend a lot of time at my PC, whether it's for knocking around on message boards or playing games with friends.
-- I have played guitar for 17 years and began taking piano lessons in late 2019. Music and instruments are a big part of my life and I play almost daily, whether that is playing with other people or practising to improve on my musical vocabulary.
+- I have played guitar for 17 years and began taking piano lessons in late 2019. Music and instruments are a big part of my life and I play almost daily, whether that is to play with other people or practise to improve on my musical vocabulary.
