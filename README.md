@@ -43,7 +43,7 @@ the opportunity to get a job in an industry I had always dreamed of working in.
 |--|--|--|--|
 | [Tavern Keepers](https://github.com/jennybell/dnd-finder) | My final project at Makers. Tavern Keepers is a web application designed to help its userbase find groups for playing Dungeons & Dragons. | Ruby on Rails, Active Record, TravisCI, Heroku | RSpec, Capybara |
 | [Bank Tech Test](https://github.com/charlie-casserly/bank-tech-test) | A simple banking program I made in order to practice OOD, TDD, and programming fluency. | Ruby | RSpec |
-| [Acebook](https://github.com/mvgame74/acebook-rails-The-Wallies) | A facebook-inspired social media platform. | Ruby on Rails, TravisCI, Active Record | RSpec, Capybara |
+| [Acebook](https://github.com/charlie-casserly/Acebook-The-Wallies) | A facebook-inspired social media platform. | Ruby on Rails, TravisCI, Active Record | RSpec, Capybara |
 
 # Skills
 
