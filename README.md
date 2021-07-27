@@ -30,7 +30,7 @@ the opportunity to get a job in an industry I had always dreamed of working in.
 ### Makers Academy (April 2021 - July 2021)
 
 - Object Oriented Programming, Test Driven Development, Web Development
-  - Technologies: Ruby, Rails, JavaScript
+  - Technologies: Ruby, Rails, JavaScript, PostgreSQL
   - Testing frameworks: RSpec/Capybara, Jasmine, TravisCI
 - Agile/XP, Pair Programming, Group Projects
   - Pair Programming for 3-4 hours every afternoon
