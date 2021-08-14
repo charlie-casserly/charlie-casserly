@@ -38,8 +38,8 @@ the opportunity to get a job in an industry I had always dreamed of working in.
 
 # Employment
 
-## Installation Electrician (February 2015 - March 2021)
-### Durkan, Ark M&E, Self-Employed
+### Installation Electrician (February 2015 - March 2021)
+#### Durkan, Ark M&E, Self-Employed
 
 - Attention to Detail
   - Delivering high-quality work to the clients specification
