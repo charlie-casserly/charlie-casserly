@@ -34,7 +34,7 @@ the opportunity to get a job in an industry I had always dreamed of working in.
   - Pair Programming for 3-4 hours every afternoon
   - Agile/XP development employed on all group projects
   - An abundant use of Git
-  - Mentoring new coders
+  - Mentoring new students
 
 # Employment
 
