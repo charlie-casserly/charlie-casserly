@@ -15,7 +15,7 @@
 
 I'm a lifelong lover of tech and I'm at my best when 
 working with logic based problems. I am a recent graduate of Makers Academy 
-where my love for writing clean code has been eternally solidified.
+where my love for writing clean code has been eternally consolidated.
 I have taken on two mentees from two cohorts behind my own and am enjoying
 teaching them Ruby, Javascript, and Test Driven Development.
 
