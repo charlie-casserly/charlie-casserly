@@ -32,7 +32,7 @@ Prior to software engineering I worked as an Electrician where I used customer s
 
 # Employment
 
-### Software Developer (October 2021 - Present) 
+### Software Developer (November 2021 - Present) 
 #### Capgemini
 - Object Oriented Programming, Test Driven Development, Web Development
   - Technologies: Java, React
