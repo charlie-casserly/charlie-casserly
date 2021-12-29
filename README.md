@@ -13,7 +13,7 @@
 
 # Background
 
-I'm a lifelong lover of tech and I'm at my best when working with logic based problems. I am currently working as a Software Developer at Capgemini where I’m becoming more familiar with Java and React. Prior to Capgemini I enrolled at Makers Academy, a full-stack software engineering bootcamp. I have taken on three mentees since graduating Makers Academy and I am enjoying teaching them Ruby, Javascript, and Test Driven Development, which are primary learning material on the Makers syllabus.
+I'm a lifelong lover of tech and I'm at my best when working with logic based problems. I am currently working as a Software Developer at Capgemini where I’m becoming more familiar with Java and React. Prior to Capgemini I enrolled at Makers Academy, a full-stack software engineering bootcamp. I have taken on a handful of mentees since graduating Makers Academy and I am enjoying teaching them Ruby, Javascript, and Test Driven Development, which are primary learning material on the Makers syllabus.
 
 Prior to software engineering I worked as an Electrician where I used customer service and attention to detail to ensure I always delivered a high standard of work to a happy customer. These skills continue to serve me in my career as a Software Developer. 
 
