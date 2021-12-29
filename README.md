@@ -13,15 +13,9 @@
 
 # Background
 
-I'm a lifelong lover of tech and I'm at my best when 
-working with logic based problems. I am a recent graduate of Makers Academy 
-where my love for writing clean code has been eternally consolidated.
-I have taken on two mentees from two cohorts behind my own and am enjoying
-teaching them Ruby, Javascript, and Test Driven Development.
+I'm a lifelong lover of tech and I'm at my best when working with logic based problems. I am currently working as a Software Developer at Capgemini where I’m becoming more familiar with Java and React. Prior to Capgemini I enrolled at Makers Academy, a full-stack software engineering bootcamp. I have taken on three mentees since graduating Makers Academy and I am enjoying teaching them Ruby, Javascript, and Test Driven Development, which are primary learning material on the Makers syllabus.
 
-Prior to Makers I worked as an Electrician, which I also pursued for my love of 
-all things techy. Having learned about coding bootcamps, I decided to leap at 
-the opportunity to get a job in an industry I had always dreamed of working in.
+Prior to software engineering I worked as an Electrician where I used customer service and attention to detail to ensure I always delivered a high standard of work to a happy customer. These skills continue to serve me in my career as a Software Developer. 
 
 # Education
 
@@ -38,16 +32,15 @@ the opportunity to get a job in an industry I had always dreamed of working in.
 
 # Employment
 
-### Installation Electrician (February 2015 - March 2021)
-#### Durkan, Ark M&E, Self-Employed
-
-- Attention to Detail
-  - Delivering high-quality work to the clients specification
-  - Clean working to deliver a product that looks and works great
+### Software Developer (October 2021 - Present) 
+#### Capgemini
+- Object Oriented Programming, Test Driven Development, Web Development
+  - Technologies: Java, React
+  - Testing frameworks: JUnit
 - Teamwork
-  - Excellent communication in large teams and developments
+  - Excellent communication in large teams and projects
   - Ability to work in large cross-functional workplaces
-  
+
 # Projects
 
 | Project       | Description                  | Technologies   | Testing   |
