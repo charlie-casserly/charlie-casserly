@@ -28,7 +28,7 @@ Backend Development, Functional Programming, Object Oriented Programming
 Backend Development, Functional Programming, Object Oriented Programming
 - Functional Programming with Scala using Play Framework and ScalaTest.
 - OOP/Functional Programming with Java and Kotlin using Spring and JUnit in some smaller services.
-- Handling queries and commands within a microservice architecture application, using Axon Framework and CQRS for interservice messaging.
+- Handling queries and commands within a microservice architecture application, using Axon Framework and CQRS for interservice messaging between backend services and HTTP with GraphQL for FE to BFF.
 - Implementing, updating, and debugging features independently within the messaging and anti-corruption layers of the code base. 
 - Writing and updating ingestion scripts for the ingestion of data and documents into the search platform, Apache Solr. 
 - Writing provider and consumer contract tests with Pact.
