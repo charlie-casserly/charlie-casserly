@@ -11,7 +11,7 @@
 
 # Background
 
-Motivated Software Engineer and lifelong lover of tech with expertise in multiple languages, microservices, database migrations, and the development and testing of web applications. Fast learner whose strengths lie in technical expertise, logical thinking, and independence.
+Motivated Software Engineer and lifelong lover of tech with expertise in multiple languages, microservices, database migrations, and the development and testing of web applications. Fast learner whose strengths lie in technical expertise, logical thinking, and self-sufficiency.
 Currently employed as a Senior Associate Software Engineer at iManage, working in the backend-for-frontend and database services to help develop a document management and search domain application.
 
 # Employment
