@@ -30,6 +30,7 @@ Backend Development, Functional Programming, Object Oriented Programming
 - OOP/Functional Programming with Java and Kotlin using Spring and JUnit in some smaller services.
 - Handling queries and commands within a microservice architecture application, using Axon Framework and CQRS for interservice messaging.
 - Implementing, updating, and debugging features independently within the messaging and anti-corruption layers of the code base. 
+- Writing and updating ingestion scripts for the ingestion of data and documents into the search platform, Apache Solr. 
 - Writing provider and consumer contract tests with Pact.
 - Writing MongoDB migrations with Mongock to seed default data for users in the application. 
 - Docker and Kubernetes.
