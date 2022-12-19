@@ -18,38 +18,38 @@ Currently employed as a Senior Associate Software Engineer at iManage, working i
 
 ### Senior Associate Software Engineer (December 2022 - Present)
 #### iManage, London, United Kingdom
-- Backend Development, Functional Programming, Object Oriented Programming
-  - All responsibilities listed in Associate Software Engineer (March -2022 - December 2022), in addition to:
-  - Taking ownership over backend development;
-  - Becoming the biggest contributor in backend-for-frontend and config/database layers whilst working independently.
+Backend Development, Functional Programming, Object Oriented Programming
+- All responsibilities listed in Associate Software Engineer (March -2022 - December 2022), in addition to:
+- Taking ownership over backend development;
+- Becoming the biggest contributor in backend-for-frontend and config/database layers whilst working independently.
 
 ### Associate Software Engineer (March 2022 - December 2022) 
 #### iManage, London, United Kingdom
-- Backend Development, Functional Programming, Object Oriented Programming
-  - Functional Programming with Scala using Play Framework and ScalaTest.
-  - OOP/Functional Programming with Java and Kotlin using Spring and JUnit in some smaller services.
-  - Handling queries and commands within a microservice architecture application, using Axon Framework and CQRS for interservice messaging.
-  - Implementing, updating, and debugging features independently within the messaging and anti-corruption layers of the code base. 
-  - Writing provider and consumer contract tests with Pact.
-  - Writing MongoDB migrations with Mongock to seed default data for users in the application. 
-  - Docker and Kubernetes.
-  - All repos deployed to Github.
-  - Project management tools such as Jira and Miro used to refine work and create tickets.
+Backend Development, Functional Programming, Object Oriented Programming
+- Functional Programming with Scala using Play Framework and ScalaTest.
+- OOP/Functional Programming with Java and Kotlin using Spring and JUnit in some smaller services.
+- Handling queries and commands within a microservice architecture application, using Axon Framework and CQRS for interservice messaging.
+- Implementing, updating, and debugging features independently within the messaging and anti-corruption layers of the code base. 
+- Writing provider and consumer contract tests with Pact.
+- Writing MongoDB migrations with Mongock to seed default data for users in the application. 
+- Docker and Kubernetes.
+- All repos deployed to Github.
+- Project management tools such as Jira and Miro used to refine work and create tickets.
 
 ### Software Developer (November 2021 - March 2022) 
 #### Capgemini, London, United Kingdom
-- Backend Development, Object Oriented Programming
-  - Technologies: Java with Spring and JUnit.
+Backend Development, Object Oriented Programming
+- Technologies: Java with Spring and JUnit.
 
 # Education
 
 ### Full-Stack Software Engineering Bootcamp (April 2021 - July 2021)
 #### Makers Academy, London, United Kingdom
-- Object Oriented Programming, Test Driven Development, Web Development
-  - Technologies: Ruby, Rails, JavaScript.
-  - Testing frameworks: RSpec/Capybara, Jasmine, TravisCI.
-  - Agile/XP, Pair Programming, Group Projects.
-  - Mentoring.
+Object Oriented Programming, Test Driven Development, Web Development
+- Technologies: Ruby, Rails, JavaScript.
+- Testing frameworks: RSpec/Capybara, Jasmine, TravisCI.
+- Agile/XP, Pair Programming, Group Projects.
+- Mentoring.
 
 # Interests
 
